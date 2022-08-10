@@ -6,7 +6,7 @@ h1{
     color: gold;
 }
 div{
-    background-color: rgba(58, 164, 226, 0.5);
+    background-color: rgba(58, 164, 226, 0.2);
     display: inline-block;
     padding: 30px;
     font-size: 18px;
